@@ -227,8 +227,8 @@
           </div>
 				</div>
 				
-        <div class="col-sm-5 chart-container">
-          <div class="panel panel-default blocos_6">
+        <div class="col-sm-3 chart-container">
+          <div class="panel panel-default">
             <div class="panel-heading">
               <h2 class="panel-title"><span id="diasTexto"></span></h2>
               <ul class="list-inline panel-actions">
@@ -252,8 +252,8 @@
           </div>
         </div>
 
-        <div class="col-sm1 chart-container">
-          <div class="panel panel-default blocos_6">
+        <div class="col-sm-3 chart-container">
+          <div class="panel panel-default">
             <div class="panel-heading">
               <h2 class="panel-title"><span id="horasTexto"></span></h2>
               <ul class="list-inline panel-actions">

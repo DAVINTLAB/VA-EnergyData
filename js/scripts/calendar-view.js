@@ -193,6 +193,7 @@ $(function() {
 							$("#origemDialog").val("consumo");
                             $("#calendarComparisonModal").modal('show');
                         } else {
+							console.log('normal');
                             var retorno = getWeekNumber(new Date(parseInt(e.point.date)));
                             lista_itens = [];
                             semana_selecionada = retorno[1];
@@ -228,7 +229,7 @@ $(function() {
                                     }
                                 }
 
-                                carregaHeatmap(heatmapcolor, lista_itens, maxDenseDisplay, miDenseDisplay, false);
+                                carregaHeatmap(heatmapcolor, lista_itens, maxDenseDisplay, minDenseDisplay, false);
 
                                 lista_heatmap = [];
                                 chart_heatmap_color = new Highcharts.Chart(heatmapcolor);
