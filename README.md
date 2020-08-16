@@ -23,3 +23,6 @@ data with different levels of time granularities, through an interactive approac
 the integrated on-demand detail technique com coordinated multiple views. An evaluation
 with domain experts demonstrates the feasibility, in addition to the advantages of using this
 model to explore, monitor and compare energy data.
+
+#Watch the demo video
+https://github.com/DAVINTLAB/VA-EnergyData/blob/master/VisualAnalyticsEnergyData.mp4
