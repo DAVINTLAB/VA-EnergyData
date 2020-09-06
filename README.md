@@ -32,6 +32,6 @@ Please, refer to this work by citing the following paper:
 Proceedings of IEEE ISC2 2020 - Visual Analytics System for Energy Data in Smart Cities and Buildings - Ânderson Pinto Alves, Isabel H. Manssour, Alessandra Paz Milani 
 
 # About the Authors
-We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:
-Isabel H. Manssour -- Professor Coordinator of DaVInt -- 2017-current.
+We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:<br>
+Isabel H. Manssour -- Professor Coordinator of DaVInt -- 2017-current.<br>
 Ânderson Pinto Alves -- Master Student in Computer Science -- 2017-2020.
