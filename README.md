@@ -29,7 +29,7 @@ https://github.com/DAVINTLAB/VA-EnergyData/blob/master/VisualAnalyticsEnergyData
 
 # Citation
 Please, refer to this work by citing the following paper:
-Proceedings of IEEE ISC2 2020 - Visual Analytics System for Energy Data in Smart Cities and Buildings - Ânderson Pinto Alves, Alessandra Paz Milani, Isabel H. Manssour 
+Ânderson Pinto Alves, Alessandra Paz Milani, Isabel H. Manssour. Visual Analytics System for Energy Data in Smart Cities and Buildings. Proceedings of 6th IEEE International Smart Cities Conference (ISC2 2020).
 
 # About the Authors
 We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:<br>
